@@ -2,50 +2,101 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 130  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "jedi-order"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Jedi"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  name = "GitLab"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Matlab"
+
+[[feature]]
+  icon = "meetup"
+  icon_pack = "fab"
+  name = "Meetup"
+
+[[feature]]
+  icon = "microphone"
+  icon_pack = "fas"
+  name = "Radio Hosting"
+
+[[feature]]
+  icon = "podcast"
+  icon_pack = "fas"
+  name = "Podcasting"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+
+[[feature]]
+  icon = "quora"
+  icon_pack = "fab"
+  name = "quora"
+
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "RaspberryPi"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "ubuntu"
+  icon_pack = "fab"
+  name = "Ubuntu"
 
-# Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+[[feature]]
+  icon = "wordpress"
+  icon_pack = "fab"
+  name = "Wordpress"
 
 +++
