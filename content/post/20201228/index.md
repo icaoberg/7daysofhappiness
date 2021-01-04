@@ -20,6 +20,8 @@ image:
 
 I am a huge fan of Singularity to deploy software on HPC clusters. But lately I have been playing around with Spack. Spack is amazing as well, but sometimes Singularity works better for legacy software or software that has the potential to become legacy.
 
+![Gif](https://media0.giphy.com/media/tTc43DeTm2kkJTrI2G/giphy.gif?cid=ecf05e47ya2m2uk9eruqf1fma4ge5cxq7l7xna50tykcuqc6&rid=giphy.gif)
+
 However Spack has the potential to allow us to build and deploy nontraditional software on an HPC cluster. For example, I use many simple tools to generate reports. With Singularity I use
 
 * [chalk-animation](https://github.com/icaoberg/singularity-chalk-animation)

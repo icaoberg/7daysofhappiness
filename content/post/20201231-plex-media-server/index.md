@@ -17,8 +17,12 @@ image:
   focal_point: "Smart"
   preview_only: true
 ---
+{{%alert%}}This is not a tutorial. Just a comment on my journey.{{%/alert%}}
 
 # About
+
+![Gif](https://media3.giphy.com/media/h8yhqgovaZ5z58j7hg/giphy.gif?cid=ecf05e47929f71b6d212528649248cec56745f5a9e021bc7&rid=giphy.gif)
+
 I started a pet project this Holiday break. I setup a Plex media server at home to listen to a lot of audio files I have at home. Mainly a radio show from Argentina, called [La Venganza será Terrible](https://venganzasdelpasado.com.ar/) and the podcast [No Agenda](https://www.noagendashow.net/). Both shows have been on air for a long time and not every show is available online for download, so I download them whenever available and keep a local copy before they get lost in the ether.
 
 ## What is Plex?
