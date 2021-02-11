@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I am research software specialist at the Pittsburgh Supercomputing Center tinkering with technology in scientific related projects. At the moment I am involved in [HuBMAP](https://commonfund.nih.gov/hubmap), [The Brain Image Library](https://www.brainimagelibrary.org/), the [National Center for Genome Analysis Support](https://ncgas.org/) and on occasion, with the [National Center for Multiscale Modeling of Biological Systems](https://mmbios.pitt.edu/).
+I am research software specialist at the Pittsburgh Supercomputing Center (PSC) tinkering with technology in scientific related projects. At the moment I am involved in [HuBMAP](https://commonfund.nih.gov/hubmap), [The Brain Image Library](https://www.brainimagelibrary.org/), the [National Center for Genome Analysis Support](https://ncgas.org/) and on occasion, with the [National Center for Multiscale Modeling of Biological Systems](https://mmbios.pitt.edu/).
 
-Sporadically, I contribute as a Sr. research programmer at the [Computational Biology Department](http://www.cbd.cmu.edu) in the School of Computer Science. Mostly at the [Murphy Lab](http://murphylab.web.cmu.edu).
+Before joining PSC, I used to be a Sr. research programmer for the [Murphy Lab](http://murphylab.web.cmu.edu) at the [Computational Biology Department](http://www.cbd.cmu.edu) in the School of Computer Science.
 
 I enjoy writing or contributing to open source projects, reusing old tech, playing with new tech, cooking and listening to good music.
