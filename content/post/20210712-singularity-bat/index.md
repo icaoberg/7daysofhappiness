@@ -20,6 +20,11 @@ image:
 
 ![Example](https://camo.githubusercontent.com/7b7c397acc5b91b4c4cf7756015185fe3c5f700f70d256a212de51294a0cf673/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67)
 
+A cat(1) clone with syntax highlighting and Git integration.
+
+* Singularity definition file [repository](https://github.com/pscedu/singularity-bat)
+* Source code [repository](https://github.com/sharkdp/bat)
+
 ## To install this container on [Bridges 2](https://www.psc.edu/resources/bridges-2/)
 
 Copy the

@@ -20,6 +20,11 @@ image:
 
 ![Example](https://raw.githubusercontent.com/bootandy/dust/master/media/snap.png)
 
+du + rust = dust. Like du but more intuitive.
+
+* Singularity definition file [repository](https://github.com/pscedu/singularity-dust)
+* Source code [repository](https://github.com/bootandy/dust)
+
 ## To install this container on [Bridges 2](https://www.psc.edu/resources/bridges-2/)
 
 Copy the
