@@ -6,7 +6,7 @@ subtitle: "A cat(1) clone with syntax highlighting and Git integration."
 summary: "A cat(1) clone with syntax highlighting and Git integration."
 authors: ["icaoberg"]
 tags: ["singularity", "github", "containerization", "utilities"]
-categories: []
+categories: ["PSC"]
 date: 2021-07-12T22:24:09
 lastmod: 2021-07-12T22:24:09
 featured: true
